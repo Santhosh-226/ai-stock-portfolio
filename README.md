@@ -8,7 +8,6 @@
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Flask](https://img.shields.io/badge/Flask-3.x-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![Groq](https://img.shields.io/badge/Groq%20API-Powered-00A67E?style=flat-square&logoColor=white)](https://groq.com)
-[![License](https://img.shields.io/badge/License-MIT-bf91f3?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-38bdae?style=flat-square)]()
 
 <br/>
@@ -273,7 +272,7 @@ git push origin feature/AmazingFeature
 B.Tech AIML | Kongu Engineering College
 
 [![GitHub](https://img.shields.io/badge/GitHub-Santhosh--226-181717?style=flat-square&logo=github)](https://github.com/Santhosh-226)
-[![LinkedIn](https://www.linkedin.com/in/santhosh-k-2341aa331)](https://linkedin.com/in/santhoshk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20K-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-k-2341aa331)
 [![Email](https://img.shields.io/badge/Email-santhoshkalivarathan%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:santhoshkalivarathan@gmail.com)
 
 </div>
