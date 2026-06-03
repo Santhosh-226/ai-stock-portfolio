@@ -273,7 +273,7 @@ git push origin feature/AmazingFeature
 B.Tech AIML | Kongu Engineering College
 
 [![GitHub](https://img.shields.io/badge/GitHub-Santhosh--226-181717?style=flat-square&logo=github)](https://github.com/Santhosh-226)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Santhosh%20K-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/santhoshk](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFOjqd4VoQWNAAAAZ6NsYk4iy3r1qCF1JD9s8jHIMxyvPI2VV19LmogzUHSZiLZUZiuFmosCQrtwvK11wkiR39BVih5z4D9bPzSM-phwq6ZSbUAzuiZg6ZOa8owu-yVpcYx1Oo=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsanthosh-k-2341aa331))
+[![LinkedIn]([[https://img.shields.io/badge/LinkedIn-Santhosh%20K-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/santhoshk](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFOjqd4VoQWNAAAAZ6NsYk4iy3r1qCF1JD9s8jHIMxyvPI2VV19LmogzUHSZiLZUZiuFmosCQrtwvK11wkiR39BVih5z4D9bPzSM-phwq6ZSbUAzuiZg6ZOa8owu-yVpcYx1Oo=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsanthosh-k-2341aa331)](https://www.linkedin.com/in/santhosh-k-2341aa331))
 [![Email](https://img.shields.io/badge/Email-santhoshkalivarathan%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:santhoshkalivarathan@gmail.com)
 
 </div>
