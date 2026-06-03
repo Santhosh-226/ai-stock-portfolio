@@ -273,7 +273,7 @@ git push origin feature/AmazingFeature
 B.Tech AIML | Kongu Engineering College
 
 [![GitHub](https://img.shields.io/badge/GitHub-Santhosh--226-181717?style=flat-square&logo=github)](https://github.com/Santhosh-226)
-[![LinkedIn](https://www.linkedin.com/in/santhosh-k-2341aa331)
+[![LinkedIn](https://www.linkedin.com/in/santhosh-k-2341aa331)](https://linkedin.com/in/santhoshk)
 [![Email](https://img.shields.io/badge/Email-santhoshkalivarathan%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:santhoshkalivarathan@gmail.com)
 
 </div>
